@@ -1,0 +1,117 @@
+body {
+    background-image: url("gameBgBlur.jpg");
+
+    background-size: cover;
+
+    font-family: monospace;
+    background-color: #984bf9;
+  }
+  .remark {
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    margin-top: 70px;
+  }
+  .next {
+    background-color: #6d4fad;
+    width: 180px;
+
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    margin-left: 630px;
+    margin-top: 150px;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    border: none;
+    box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
+  .next:hover {
+    box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.4);
+    background-color: #bfa5fa;
+    color: black;
+  }
+  .playAgain {
+    background-color: #6d4fad;
+    width: 180px;
+    height: px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    margin-left: 630px;
+    margin-top: 40px;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    border: none;
+    box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
+  .playAgain:hover {
+    box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.4);
+    background-color: #bfa5fa;
+    color: black;
+  }
+  .home {
+    background-color: #6d4fad;
+    width: 180px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    margin-left: 630px;
+    margin-top: 40px;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    border: none;
+    box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
+  .home:hover {
+    box-shadow: 4px 3px 4px 2px rgba(0, 0, 0, 0.4);
+    background-color: #bfa5fa;
+    color: black;
+  }
+  .TimeTaken{
+      font-size: 25px;
+      margin-left: 650px;
+      padding-top: 40px;
+      color: black
+  }
+  @media only screen and (max-width: 900px) {
+    .cont {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    .remark {
+      margin-top: 60px;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      flex-direction: column;
+    }
+    .next {
+      margin-top: 200px;
+      margin-right: 650px;
+    }
+    .playAgain {
+      margin-right: 650px;
+      margin-top: 50px;
+    }
+    .home {
+      margin-top: 50px;
+      margin-right: 650px;
+    }
+    .TimeTaken{
+      color: white;
+      position: absolute;
+      top: 500px;
+      right: 40px;
+      width: 300px;
+    }
+  }
