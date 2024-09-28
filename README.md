@@ -1,4 +1,5 @@
 # MEMORY CARD GAME - SYNCRO MIND
+---
 
 Embark on an exhilarating journey of mental synergy with Syncro Minds🥳, the memory card game that transcends ordinary challenges. Immerse yourself in a captivating realm where memory meets strategy, as you unveil the art of synchronization. Unleash the power of your mind by pairing vibrant cards that mirror each other🤔, testing not only your recollection skills but also your ability to forge connections between seemingly disparate elements.
 
